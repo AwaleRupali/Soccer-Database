@@ -6,6 +6,8 @@ This repository contains SQL scripts to create and query a comprehensive soccer 
 
 **Schema Overview:**
 soccer_country: Stores country details.
+
+
 soccer_city: Stores city details linked to countries.
 soccer_venue: Stores venue details linked to cities.
 soccer_team: Stores team details linked to countries.
