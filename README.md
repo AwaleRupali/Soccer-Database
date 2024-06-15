@@ -1,6 +1,9 @@
 # Soccer_Database.sql
 Soccer Database SQL Scripts:
 This repository contains SQL scripts to create and query a comprehensive soccer database. The database includes tables for countries, cities, venues, teams, players, referees, matches, and various match-related details.
+
+
+
 **Schema Overview:**
 soccer_country: Stores country details.
 soccer_city: Stores city details linked to countries.
